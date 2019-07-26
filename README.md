@@ -1,0 +1,1 @@
+# oathkeeper-rule-generator
