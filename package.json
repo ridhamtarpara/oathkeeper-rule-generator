@@ -10,7 +10,7 @@
     "cookie-parser": "~1.4.4",
     "debug": "^2.6.9",
     "easy-promise-all": "^1.0.4",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "fs": "0.0.1-security",
     "fstream": "^1.0.12",
     "morgan": "~1.9.1",
